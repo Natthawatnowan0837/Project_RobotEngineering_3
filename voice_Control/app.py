@@ -1,15 +1,15 @@
 import json
-from sentence_transformers import SentenceTransformer, util
 import datetime
-from gtts import gTTS
 import playsound
 import os
 import sounddevice as sd
 import soundfile as sf
 import torch
-from transformers import WhisperProcessor, WhisperForConditionalGeneration
 import numpy as np
-import speech_recognition as sr  # ใช้ชื่อย่อ sr
+import speech_recognition as sr  
+from gtts import gTTS
+from sentence_transformers import SentenceTransformer, util
+from transformers import WhisperProcessor, WhisperForConditionalGeneration
 
 with open('commands.json', 'r', encoding='utf-8') as f:
     commands_json = json.load(f)
@@ -20,9 +20,9 @@ rooms_dict = commands_json["rooms"]
 model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
 
 
-MODEL_NAME = "biodatlab/whisper-th-small-combined"
-processor = WhisperProcessor.from_pretrained(MODEL_NAME)
-whisper_model = WhisperForConditionalGeneration.from_pretrained(MODEL_NAME)
+model_text = "biodatlab/whisper-th-small-combined"
+processor = WhisperProcessor.from_pretrained(model_text)
+whisper_model = WhisperForConditionalGeneration.from_pretrained(model_text)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 whisper_model.to(device)
 
