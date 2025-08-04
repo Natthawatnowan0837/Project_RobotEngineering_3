@@ -1,0 +1,1 @@
+https://github.com/IntelRealSense/realsense-ros/tree/ros2-legacy
