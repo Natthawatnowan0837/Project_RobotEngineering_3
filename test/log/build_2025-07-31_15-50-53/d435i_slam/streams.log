@@ -1,0 +1,21 @@
+[0.629s] Invoking command in '/home/jo/project_RobotEngineering_3/test/src/d435i_slam': PYTHONPATH=/home/jo/project_RobotEngineering_3/test/build/d435i_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jo/project_RobotEngineering_3/test/install/d435i_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/d435i_slam build --build-base /home/jo/project_RobotEngineering_3/test/build/d435i_slam/build install --record /home/jo/project_RobotEngineering_3/test/build/d435i_slam/install.log --single-version-externally-managed install_data
+[0.850s] running egg_info
+[0.850s] writing ../../build/d435i_slam/d435i_slam.egg-info/PKG-INFO
+[0.850s] writing dependency_links to ../../build/d435i_slam/d435i_slam.egg-info/dependency_links.txt
+[0.851s] writing entry points to ../../build/d435i_slam/d435i_slam.egg-info/entry_points.txt
+[0.851s] writing requirements to ../../build/d435i_slam/d435i_slam.egg-info/requires.txt
+[0.851s] writing top-level names to ../../build/d435i_slam/d435i_slam.egg-info/top_level.txt
+[0.852s] reading manifest file '../../build/d435i_slam/d435i_slam.egg-info/SOURCES.txt'
+[0.853s] writing manifest file '../../build/d435i_slam/d435i_slam.egg-info/SOURCES.txt'
+[0.853s] running build
+[0.853s] running build_py
+[0.853s] running install
+[0.853s] running install_lib
+[0.854s] running install_data
+[0.854s] copying package.xml -> /home/jo/project_RobotEngineering_3/test/install/d435i_slam/share/d435i_slam
+[0.854s] running install_egg_info
+[0.856s] removing '/home/jo/project_RobotEngineering_3/test/install/d435i_slam/lib/python3.10/site-packages/d435i_slam-0.0.0-py3.10.egg-info' (and everything under it)
+[0.856s] Copying ../../build/d435i_slam/d435i_slam.egg-info to /home/jo/project_RobotEngineering_3/test/install/d435i_slam/lib/python3.10/site-packages/d435i_slam-0.0.0-py3.10.egg-info
+[0.856s] running install_scripts
+[0.871s] writing list of installed files to '/home/jo/project_RobotEngineering_3/test/build/d435i_slam/install.log'
+[0.893s] Invoked command in '/home/jo/project_RobotEngineering_3/test/src/d435i_slam' returned '0': PYTHONPATH=/home/jo/project_RobotEngineering_3/test/build/d435i_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jo/project_RobotEngineering_3/test/install/d435i_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/d435i_slam build --build-base /home/jo/project_RobotEngineering_3/test/build/d435i_slam/build install --record /home/jo/project_RobotEngineering_3/test/build/d435i_slam/install.log --single-version-externally-managed install_data

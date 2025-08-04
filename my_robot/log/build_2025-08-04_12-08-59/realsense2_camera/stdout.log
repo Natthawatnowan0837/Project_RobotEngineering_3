@@ -1,0 +1,51 @@
+[35m[1mConsolidate compiler generated dependencies of target realsense2_camera[0m
+[ 25%] Built target realsense2_camera_node
+[ 37%] [32mBuilding CXX object CMakeFiles/realsense2_camera.dir/src/base_realsense_node.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library librealsense2_camera.so[0m
+[100%] Built target realsense2_camera
+-- Install configuration: "Release"
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib/realsense2_camera/realsense2_camera_node
+-- Set runtime path of "/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib/realsense2_camera/realsense2_camera_node" to ""
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib/librealsense2_camera.so
+-- Set runtime path of "/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib/librealsense2_camera.so" to ""
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/include
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/include/t265_realsense_node.h
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/include/ros_param_backend.h
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/include/constants.h
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/include/realsense_node_factory.h
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/include/dynamic_params.h
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/include/base_realsense_node.h
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch/rs_multi_camera_launch.py
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch/demo_pointcloud_launch.py
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch/rs_launch.py
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch/rs_d400_and_t265_launch.py
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch/default.rviz
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch/demo_t265_launch.py
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/launch/rs_t265_launch.py
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/config
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/config/d435i.yaml
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/rviz
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/rviz/pointcloud.rviz
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/rviz/t265.rviz
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/environment/library_path.sh
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/environment/library_path.dsv
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/ament_index/resource_index/package_run_dependencies/realsense2_camera
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/ament_index/resource_index/parent_prefix_path/realsense2_camera
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/environment/ament_prefix_path.sh
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/environment/ament_prefix_path.dsv
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/environment/path.sh
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/environment/path.dsv
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/local_setup.bash
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/local_setup.sh
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/local_setup.zsh
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/local_setup.dsv
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/package.dsv
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/ament_index/resource_index/packages/realsense2_camera
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/ament_index/resource_index/rclcpp_components/realsense2_camera
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/cmake/realsense2_cameraConfig.cmake
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/cmake/realsense2_cameraConfig-version.cmake
+-- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/share/realsense2_camera/package.xml

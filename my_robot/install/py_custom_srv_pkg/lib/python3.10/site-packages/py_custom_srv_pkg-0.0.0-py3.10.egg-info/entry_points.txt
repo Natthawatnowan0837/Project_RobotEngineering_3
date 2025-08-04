@@ -1,0 +1,5 @@
+[console_scripts]
+py_custom_client = py_custom_srv_pkg.py_custom_client:main
+py_custom_server = py_custom_srv_pkg.py_custom_server:main
+realsense_test = py_custom_srv_pkg.realsense_test:main
+

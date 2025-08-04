@@ -1,0 +1,23 @@
+Cloning into 'json'...
+Cloning into 'libcurl'...
+HEAD is now at fd567d4f0 RELEASE-NOTES: synced
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    ANDROID_ABI
+    ANDROID_STL
+    CMAKE_CXX_FLAGS
+    CMAKE_CXX_STANDARD_LIBRARIES
+    CURL_DISABLE_CRYPTO_AUTH
+
+[0m
+/sbin/ldconfig.real: Can't create temporary cache file /etc/ld.so.cache~: Permission denied
+/sbin/ldconfig.real: Can't create temporary cache file /etc/ld.so.cache~: Permission denied
+[31mCMake Error at tools/realsense-viewer/cmake_install.cmake:74 (file):
+  file INSTALL cannot set permissions on
+  "/home/jo/Documents/librealsense2/presets": Operation not permitted.
+Call Stack (most recent call first):
+  tools/cmake_install.cmake:55 (include)
+  cmake_install.cmake:138 (include)
+
+[0m

@@ -1,0 +1,4 @@
+/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_adapter/realsense2_camera_msgs:msg/IMUInfo.idl
+/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_adapter/realsense2_camera_msgs:msg/Extrinsics.idl
+/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_adapter/realsense2_camera_msgs:msg/Metadata.idl
+/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_adapter/realsense2_camera_msgs:srv/DeviceInfo.idl

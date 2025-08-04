@@ -1,0 +1,12 @@
+# Hashes of file build rules.
+f47feadf7a624a40b10543c04dd7bcd8 CMakeFiles/libcurl
+e9797e75141a3bdae53905dab42858c0 CMakeFiles/libcurl-complete
+f679fc70a087d65722c4c9637c29bc8d CMakeFiles/uninstall
+9470ce323e3b16fdddcbdfd4f3d28203 libcurl/src/libcurl-stamp/libcurl-build
+de57581994e01d00b7c3e11742dd3373 libcurl/src/libcurl-stamp/libcurl-configure
+0e1285d9e83b4b94fc80affee9ff7717 libcurl/src/libcurl-stamp/libcurl-download
+826bb7e8e484a78ac538458617bf8c17 libcurl/src/libcurl-stamp/libcurl-install
+22dd101cd8a71bb73db3d26a497b5a94 libcurl/src/libcurl-stamp/libcurl-mkdir
+2aea85ed1863a5d61188bf8f8e954693 libcurl/src/libcurl-stamp/libcurl-patch
+e1a6ea8d090b40fcf474c3713ca2107e libcurl/src/libcurl-stamp/libcurl-test
+e41d04a5af2bba851f1e28ddb9616540 libcurl/src/libcurl-stamp/libcurl-update

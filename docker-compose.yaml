@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  voice-controller:
+    build:
+      context: ./voice-controller
+      dockerfile: Dockerfile
+    container_name: voice-controller
+    volumes:
+      - ./voice-controller:/app
+      - ./shared_audio:/shared_audio
+    ports:
+      - "8000:8000"  
+    restart: unless-stopped
+    environment:
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+    command: ["python", "app.py"]

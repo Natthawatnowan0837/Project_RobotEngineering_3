@@ -1,0 +1,11 @@
+torch
+transformers
+sentence-transformers
+speechrecognition
+gtts
+sounddevice
+soundfile
+pyaudio
+numpy
+playsoundplaysound==1.2.2
+pygobject

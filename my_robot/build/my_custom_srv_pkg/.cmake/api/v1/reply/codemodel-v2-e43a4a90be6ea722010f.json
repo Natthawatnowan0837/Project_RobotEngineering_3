@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e7e996bb89b22877c5c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "my_custom_srv_pkg__py",
+					"jsonFile" : "directory-my_custom_srv_pkg__py-c7aa58f6b76fe58d391b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/jo/project_RobotEngineering_3/my_robot/build/my_custom_srv_pkg/my_custom_srv_pkg__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my_custom_srv_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_my_custom_srv_pkg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_my_custom_srv_pkg_egg-080cf0ff5b00f87c628b.json",
+					"name" : "ament_cmake_python_build_my_custom_srv_pkg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_my_custom_srv_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_my_custom_srv_pkg-13605f542292f267bd8c.json",
+					"name" : "ament_cmake_python_copy_my_custom_srv_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg-163366ec4e4d92d30698.json",
+					"name" : "my_custom_srv_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__cpp-006d30212d3a3aa07115.json",
+					"name" : "my_custom_srv_pkg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_custom_srv_pkg__py::@a54241f609fb2f8a9629",
+					"jsonFile" : "target-my_custom_srv_pkg__py-5a8dab7c95ad4a00540d.json",
+					"name" : "my_custom_srv_pkg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_generator_c-5609b6ab12f783f36cf9.json",
+					"name" : "my_custom_srv_pkg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_generator_py-d296d9b54876c6eb9e99.json",
+					"name" : "my_custom_srv_pkg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_c-b731c2ecc30690980ca3.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_c__pyext-77ea5ff6f624a969026c.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_cpp-84315494fee497dff384.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_fastrtps_c-618cc857db0b9baa4d65.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_fastrtps_c__pyext-13a870c6d1eb7251fcf9.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_fastrtps_cpp-94761d37bed1c7e6a6e9.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_introspection_c-ed7cafde9ccc9b14f2a9.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_introspection_c__pyext-ecebda5b218b422431f8.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg__rosidl_typesupport_introspection_cpp-06cf2b90034771cc697c.json",
+					"name" : "my_custom_srv_pkg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_custom_srv_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_custom_srv_pkg_uninstall-2b98c81275017367c179.json",
+					"name" : "my_custom_srv_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-43869a8d0df04f634733.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jo/project_RobotEngineering_3/my_robot/build/my_custom_srv_pkg",
+		"source" : "/home/jo/project_RobotEngineering_3/my_robot/src/my_custom_srv_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

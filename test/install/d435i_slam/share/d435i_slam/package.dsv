@@ -1,0 +1,6 @@
+source;share/d435i_slam/hook/pythonpath.ps1
+source;share/d435i_slam/hook/pythonpath.dsv
+source;share/d435i_slam/hook/pythonpath.sh
+source;share/d435i_slam/hook/ament_prefix_path.ps1
+source;share/d435i_slam/hook/ament_prefix_path.dsv
+source;share/d435i_slam/hook/ament_prefix_path.sh
