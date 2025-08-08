@@ -1,0 +1,1 @@
+/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_cmake/srv/DeviceInfo_Request.msg

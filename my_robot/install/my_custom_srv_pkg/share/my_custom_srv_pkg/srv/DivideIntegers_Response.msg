@@ -1,6 +1,1 @@
-
-int64 result
-bool success
-string message
-
-
+/home/jo/project_RobotEngineering_3/my_robot/build/my_custom_srv_pkg/rosidl_cmake/srv/DivideIntegers_Response.msg

@@ -1,3 +1,1 @@
-# generated from ament_package/template/environment_hook/pythonpath.sh.in
-
-ament_prepend_unique_value PYTHONPATH "$AMENT_CURRENT_PREFIX/local/lib/python3.10/dist-packages"
+/home/jo/project_RobotEngineering_3/my_robot/build/my_custom_srv_pkg/ament_cmake_environment_hooks/pythonpath.sh

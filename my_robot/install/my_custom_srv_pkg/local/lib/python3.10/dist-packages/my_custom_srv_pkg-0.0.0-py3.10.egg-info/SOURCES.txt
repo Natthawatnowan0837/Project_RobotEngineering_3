@@ -1,8 +1,1 @@
-setup.py
-my_custom_srv_pkg/__init__.py
-my_custom_srv_pkg.egg-info/PKG-INFO
-my_custom_srv_pkg.egg-info/SOURCES.txt
-my_custom_srv_pkg.egg-info/dependency_links.txt
-my_custom_srv_pkg.egg-info/top_level.txt
-my_custom_srv_pkg/srv/__init__.py
-my_custom_srv_pkg/srv/_divide_integers.py
+/home/jo/project_RobotEngineering_3/my_robot/build/my_custom_srv_pkg/ament_cmake_python/my_custom_srv_pkg/my_custom_srv_pkg.egg-info/SOURCES.txt

@@ -1,3 +1,1 @@
-std_msgs/Header header
-float64[9] rotation
-float64[3] translation
+/home/jo/project_RobotEngineering_3/my_robot/src/realsense-ros/realsense2_camera_msgs/msg/Extrinsics.msg

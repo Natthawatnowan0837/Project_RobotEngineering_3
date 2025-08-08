@@ -1,8 +1,1 @@
-int64 dividend
-int64 divisor
----
-int64 result
-bool success
-string message
-
-
+/home/jo/project_RobotEngineering_3/my_robot/src/my_custom_srv_pkg/srv/DivideIntegers.srv

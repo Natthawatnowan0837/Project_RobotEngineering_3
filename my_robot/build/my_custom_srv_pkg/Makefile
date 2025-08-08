@@ -315,17 +315,17 @@ my_custom_srv_pkg__rosidl_typesupport_cpp/fast:
 .PHONY : my_custom_srv_pkg__rosidl_typesupport_cpp/fast
 
 #=============================================================================
-# Target rules for targets named ament_cmake_python_copy_my_custom_srv_pkg
+# Target rules for targets named ament_cmake_python_symlink_my_custom_srv_pkg
 
 # Build rule for target.
-ament_cmake_python_copy_my_custom_srv_pkg: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ament_cmake_python_copy_my_custom_srv_pkg
-.PHONY : ament_cmake_python_copy_my_custom_srv_pkg
+ament_cmake_python_symlink_my_custom_srv_pkg: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ament_cmake_python_symlink_my_custom_srv_pkg
+.PHONY : ament_cmake_python_symlink_my_custom_srv_pkg
 
 # fast build rule for target.
-ament_cmake_python_copy_my_custom_srv_pkg/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ament_cmake_python_copy_my_custom_srv_pkg.dir/build.make CMakeFiles/ament_cmake_python_copy_my_custom_srv_pkg.dir/build
-.PHONY : ament_cmake_python_copy_my_custom_srv_pkg/fast
+ament_cmake_python_symlink_my_custom_srv_pkg/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ament_cmake_python_symlink_my_custom_srv_pkg.dir/build.make CMakeFiles/ament_cmake_python_symlink_my_custom_srv_pkg.dir/build
+.PHONY : ament_cmake_python_symlink_my_custom_srv_pkg/fast
 
 #=============================================================================
 # Target rules for targets named ament_cmake_python_build_my_custom_srv_pkg_egg
@@ -683,7 +683,7 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... test"
 	@echo "... ament_cmake_python_build_my_custom_srv_pkg_egg"
-	@echo "... ament_cmake_python_copy_my_custom_srv_pkg"
+	@echo "... ament_cmake_python_symlink_my_custom_srv_pkg"
 	@echo "... my_custom_srv_pkg"
 	@echo "... my_custom_srv_pkg__cpp"
 	@echo "... my_custom_srv_pkg__py"

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/jo/project_RobotEngineering_3/my_robot/build/my_custom_srv_pkg/rosidl_generator_py/my_custom_srv_pkg/my_custom_srv_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "my_custom_srv_pkg__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/my_custom_srv_pkg")

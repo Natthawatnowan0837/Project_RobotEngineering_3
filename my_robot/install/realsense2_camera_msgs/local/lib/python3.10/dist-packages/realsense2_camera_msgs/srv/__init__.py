@@ -1,1 +1,1 @@
-from realsense2_camera_msgs.srv._device_info import DeviceInfo  # noqa: F401
+/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_generator_py/realsense2_camera_msgs/srv/__init__.py

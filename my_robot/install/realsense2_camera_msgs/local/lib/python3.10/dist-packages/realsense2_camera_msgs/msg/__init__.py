@@ -1,3 +1,1 @@
-from realsense2_camera_msgs.msg._extrinsics import Extrinsics  # noqa: F401
-from realsense2_camera_msgs.msg._imu_info import IMUInfo  # noqa: F401
-from realsense2_camera_msgs.msg._metadata import Metadata  # noqa: F401
+/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_generator_py/realsense2_camera_msgs/msg/__init__.py

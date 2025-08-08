@@ -1,2 +1,1 @@
-int64 dividend
-int64 divisor
+/home/jo/project_RobotEngineering_3/my_robot/build/my_custom_srv_pkg/rosidl_cmake/srv/DivideIntegers_Request.msg
