@@ -1,0 +1,173 @@
+[0.013s] Invoking command in '/home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg -- -j12 -l12
+[0.077s] [  2%] Built target my_command_pkg__cpp
+[0.079s] [ 12%] Built target my_command_pkg__rosidl_generator_c
+[0.093s] [ 12%] Built target ament_cmake_python_copy_my_command_pkg
+[0.109s] [ 23%] Built target my_command_pkg__rosidl_typesupport_cpp
+[0.112s] [ 33%] Built target my_command_pkg__rosidl_typesupport_fastrtps_cpp
+[0.115s] [ 43%] Built target my_command_pkg__rosidl_typesupport_introspection_cpp
+[0.119s] [ 53%] Built target my_command_pkg__rosidl_typesupport_introspection_c
+[0.122s] [ 64%] Built target my_command_pkg__rosidl_typesupport_fastrtps_c
+[0.123s] [ 74%] Built target my_command_pkg__rosidl_typesupport_c
+[0.151s] [ 74%] Built target my_command_pkg
+[0.179s] [ 76%] Built target my_command_pkg__py
+[0.221s] [ 84%] Built target my_command_pkg__rosidl_generator_py
+[0.246s] [ 94%] Built target my_command_pkg__rosidl_typesupport_introspection_c__pyext
+[0.247s] [ 94%] Built target my_command_pkg__rosidl_typesupport_c__pyext
+[0.252s] [100%] Built target my_command_pkg__rosidl_typesupport_fastrtps_c__pyext
+[0.507s] running egg_info
+[0.508s] writing my_command_pkg.egg-info/PKG-INFO
+[0.508s] writing dependency_links to my_command_pkg.egg-info/dependency_links.txt
+[0.508s] writing top-level names to my_command_pkg.egg-info/top_level.txt
+[0.512s] reading manifest file 'my_command_pkg.egg-info/SOURCES.txt'
+[0.513s] writing manifest file 'my_command_pkg.egg-info/SOURCES.txt'
+[0.556s] [100%] Built target ament_cmake_python_build_my_command_pkg_egg
+[0.564s] Invoked command in '/home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg -- -j12 -l12
+[0.565s] Invoking command in '/home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --install /home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg
+[0.574s] -- Install configuration: ""
+[0.574s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/ament_index/resource_index/rosidl_interfaces/my_command_pkg
+[0.574s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg
+[0.574s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv
+[0.574s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__functions.h
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__struct.h
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__functions.c
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__functions.c
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__struct.h
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__type_support.h
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__type_support.h
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__functions.h
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/send_position.h
+[0.575s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/command.h
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg/rosidl_generator_c__visibility_control.h
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/library_path.sh
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/library_path.dsv
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_generator_c.so
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__rosidl_typesupport_fastrtps_c.h
+[0.576s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__rosidl_typesupport_fastrtps_c.h
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_typesupport_fastrtps_c.so
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__builder.hpp
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__struct.hpp
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__type_support.hpp
+[0.577s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__struct.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__type_support.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__traits.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__traits.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__builder.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/command.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/send_position.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv
+[0.578s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/dds_fastrtps
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__rosidl_typesupport_fastrtps_cpp.hpp
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__rosidl_typesupport_fastrtps_cpp.hpp
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_typesupport_fastrtps_cpp.so
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail
+[0.579s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__type_support.c
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__rosidl_typesupport_introspection_c.h
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__type_support.c
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__rosidl_typesupport_introspection_c.h
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_typesupport_introspection_c.so
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_typesupport_c.so
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__rosidl_typesupport_introspection_cpp.hpp
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__type_support.cpp
+[0.580s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/command__rosidl_typesupport_introspection_cpp.hpp
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/include/my_command_pkg/my_command_pkg/srv/detail/send_position__type_support.cpp
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_typesupport_introspection_cpp.so
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_typesupport_cpp.so
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/pythonpath.sh
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/pythonpath.dsv
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg-0.0.0-py3.10.egg-info
+[0.581s] -- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg-0.0.0-py3.10.egg-info/top_level.txt
+[0.581s] -- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.581s] -- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg-0.0.0-py3.10.egg-info/PKG-INFO
+[0.581s] -- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/_my_command_pkg_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.581s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/_my_command_pkg_s.ep.rosidl_typesupport_introspection_c.c
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/srv
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/srv/_send_position_s.c
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/srv/_command.py
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/srv/_send_position.py
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/srv/__init__.py
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/srv/_command_s.c
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/my_command_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/my_command_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/libmy_command_pkg__rosidl_generator_py.so
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/__init__.py
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/my_command_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.582s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/_my_command_pkg_s.ep.rosidl_typesupport_c.c
+[0.611s] Listing '/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg'...
+[0.611s] Listing '/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/srv'...
+[0.615s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/my_command_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.616s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/my_command_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.616s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/local/lib/python3.10/dist-packages/my_command_pkg/my_command_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.616s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib/libmy_command_pkg__rosidl_generator_py.so
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/Command.idl
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/SendPosition.idl
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/Command.srv
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/Command_Request.msg
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/Command_Response.msg
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/SendPosition.srv
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/SendPosition_Request.msg
+[0.617s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/srv/SendPosition_Response.msg
+[0.618s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/ament_index/resource_index/package_run_dependencies/my_command_pkg
+[0.618s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/ament_index/resource_index/parent_prefix_path/my_command_pkg
+[0.618s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/ament_prefix_path.sh
+[0.618s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/ament_prefix_path.dsv
+[0.618s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/path.sh
+[0.618s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/environment/path.dsv
+[0.619s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/local_setup.bash
+[0.619s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/local_setup.sh
+[0.619s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/local_setup.zsh
+[0.619s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/local_setup.dsv
+[0.619s] -- Installing: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/package.dsv
+[0.619s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/ament_index/resource_index/packages/my_command_pkg
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_generator_cExport.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_generator_cExport-noconfig.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_typesupport_fastrtps_cExport.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_generator_cppExport.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_introspection_cExport.cmake
+[0.620s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.621s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_cExport.cmake
+[0.621s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_cExport-noconfig.cmake
+[0.621s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_introspection_cppExport.cmake
+[0.621s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_cppExport.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkg__rosidl_typesupport_cppExport-noconfig.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_generator_pyExport.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/export_my_command_pkg__rosidl_generator_pyExport-noconfig.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/rosidl_cmake-extras.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/ament_cmake_export_libraries-extras.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/ament_cmake_export_targets-extras.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.623s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkgConfig.cmake
+[0.624s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/cmake/my_command_pkgConfig-version.cmake
+[0.624s] -- Up-to-date: /home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/share/my_command_pkg/package.xml
+[0.627s] Invoked command in '/home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --install /home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg

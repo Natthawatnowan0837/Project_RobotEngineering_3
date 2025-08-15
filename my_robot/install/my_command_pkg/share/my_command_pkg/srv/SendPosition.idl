@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_command_pkg/srv/SendPosition.srv
+// generated code does not contain a copyright notice
+
+
+module my_command_pkg {
+  module srv {
+    struct SendPosition_Request {
+      int32 send_x;
+
+      int32 send_y;
+
+      int32 send_z;
+    };
+    struct SendPosition_Response {
+      string message;
+
+      boolean success;
+    };
+  };
+};

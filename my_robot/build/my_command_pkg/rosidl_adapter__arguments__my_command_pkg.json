@@ -1,0 +1,7 @@
+{
+  "package_name": "my_command_pkg",
+  "non_idl_tuples": [
+    "/home/jo/project_RobotEngineering_3/my_robot/src/my_command_pkg:srv/Command.srv",
+    "/home/jo/project_RobotEngineering_3/my_robot/src/my_command_pkg:srv/SendPosition.srv"
+  ]
+}

@@ -1,0 +1,26 @@
+[0.744s] Invoking command in '/home/jo/project_RobotEngineering_3/my_robot/src/my_robot_pkg': CMAKE_PREFIX_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_description:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs LD_LIBRARY_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build install --record /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/install.log --single-version-externally-managed install_data
+[0.932s] running egg_info
+[0.932s] writing ../../build/my_robot_pkg/my_robot_pkg.egg-info/PKG-INFO
+[0.932s] writing dependency_links to ../../build/my_robot_pkg/my_robot_pkg.egg-info/dependency_links.txt
+[0.933s] writing entry points to ../../build/my_robot_pkg/my_robot_pkg.egg-info/entry_points.txt
+[0.933s] writing requirements to ../../build/my_robot_pkg/my_robot_pkg.egg-info/requires.txt
+[0.933s] writing top-level names to ../../build/my_robot_pkg/my_robot_pkg.egg-info/top_level.txt
+[0.934s] reading manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[0.935s] writing manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[0.935s] running build
+[0.935s] running build_py
+[0.935s] copying my_robot_pkg/robot_client.py -> /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg
+[0.935s] running install
+[0.935s] running install_lib
+[0.936s] copying /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg/robot_client.py -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[0.936s] byte-compiling /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/robot_client.py to robot_client.cpython-310.pyc
+[0.937s] running install_data
+[0.937s] running install_egg_info
+[0.938s] removing '/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.939s] Copying ../../build/my_robot_pkg/my_robot_pkg.egg-info to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg-0.0.0-py3.10.egg-info
+[0.939s] running install_scripts
+[0.954s] Installing nevigetion script to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/my_robot_pkg
+[0.954s] Installing robot_client script to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/my_robot_pkg
+[0.955s] Installing voice_speech script to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/my_robot_pkg
+[0.955s] writing list of installed files to '/home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/install.log'
+[0.977s] Invoked command in '/home/jo/project_RobotEngineering_3/my_robot/src/my_robot_pkg' returned '0': CMAKE_PREFIX_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_description:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs LD_LIBRARY_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build install --record /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/install.log --single-version-externally-managed install_data

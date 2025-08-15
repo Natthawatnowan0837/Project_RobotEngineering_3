@@ -1,0 +1,3 @@
+int32 send_x
+int32 send_y
+int32 send_z

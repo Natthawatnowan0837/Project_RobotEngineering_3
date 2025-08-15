@@ -1,1 +1,7 @@
-/home/jo/project_RobotEngineering_3/my_robot/build/realsense2_camera_msgs/rosidl_cmake/srv/DeviceInfo_Response.msg
+
+string device_name
+string serial_number
+string firmware_version
+string usb_type_descriptor
+string firmware_update_id
+string sensors

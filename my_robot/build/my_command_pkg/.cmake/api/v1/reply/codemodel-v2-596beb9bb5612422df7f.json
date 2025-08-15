@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-cd949e028e78080a72a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "my_command_pkg__py",
+					"jsonFile" : "directory-my_command_pkg__py-2ef1c83142a62311565e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg/my_command_pkg__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my_command_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_my_command_pkg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_my_command_pkg_egg-3c2b7c2dd62f3f250635.json",
+					"name" : "ament_cmake_python_build_my_command_pkg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_my_command_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_my_command_pkg-a3c90782f8744f880074.json",
+					"name" : "ament_cmake_python_copy_my_command_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg-aafd143551e0efdbcdf7.json",
+					"name" : "my_command_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__cpp-20bacc4d43d3144c4227.json",
+					"name" : "my_command_pkg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_command_pkg__py::@ef911cb56d2e12d1b152",
+					"jsonFile" : "target-my_command_pkg__py-6876279c5aef5906af02.json",
+					"name" : "my_command_pkg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_generator_c-3fec3b043b5da5ff5b0f.json",
+					"name" : "my_command_pkg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_generator_py-29eda1a4babab3ab1af8.json",
+					"name" : "my_command_pkg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_c-ee9fba086bfeee48eb53.json",
+					"name" : "my_command_pkg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_c__pyext-e89d4cb6253fd7ac423b.json",
+					"name" : "my_command_pkg__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_cpp-6fe064366e163927f8e6.json",
+					"name" : "my_command_pkg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_fastrtps_c-e102c2e81e07e7a7236a.json",
+					"name" : "my_command_pkg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_fastrtps_c__pyext-61f6490656fa758d7729.json",
+					"name" : "my_command_pkg__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_fastrtps_cpp-ea98c39a4895d234a641.json",
+					"name" : "my_command_pkg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_introspection_c-a1a9faa9a35e4c0e9964.json",
+					"name" : "my_command_pkg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_introspection_c__pyext-bc8c11169da93baaa4fb.json",
+					"name" : "my_command_pkg__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg__rosidl_typesupport_introspection_cpp-6d08520db0577f5471b7.json",
+					"name" : "my_command_pkg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_command_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_command_pkg_uninstall-a14460d0f1bf6618fb9f.json",
+					"name" : "my_command_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-77ae1acf70e02ee991aa.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jo/project_RobotEngineering_3/my_robot/build/my_command_pkg",
+		"source" : "/home/jo/project_RobotEngineering_3/my_robot/src/my_command_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

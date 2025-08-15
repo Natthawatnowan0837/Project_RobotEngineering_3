@@ -1,0 +1,5 @@
+[console_scripts]
+nevigetion = my_robot_pkg.nevigetion:main
+robot_client = my_robot_pkg.robot_client:main
+voice_speech = my_robot_pkg.voice_speech:main
+

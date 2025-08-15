@@ -1,0 +1,47 @@
+[0.789s] Invoking command in '/home/jo/project_RobotEngineering_3/my_robot/src/my_robot_pkg': CMAKE_PREFIX_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_description:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs LD_LIBRARY_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build install --record /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/install.log --single-version-externally-managed install_data
+[1.133s] running egg_info
+[1.133s] creating ../../build/my_robot_pkg/my_robot_pkg.egg-info
+[1.134s] writing ../../build/my_robot_pkg/my_robot_pkg.egg-info/PKG-INFO
+[1.134s] writing dependency_links to ../../build/my_robot_pkg/my_robot_pkg.egg-info/dependency_links.txt
+[1.134s] writing entry points to ../../build/my_robot_pkg/my_robot_pkg.egg-info/entry_points.txt
+[1.134s] writing requirements to ../../build/my_robot_pkg/my_robot_pkg.egg-info/requires.txt
+[1.134s] writing top-level names to ../../build/my_robot_pkg/my_robot_pkg.egg-info/top_level.txt
+[1.135s] writing manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[1.138s] reading manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[1.139s] writing manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[1.139s] running build
+[1.139s] running build_py
+[1.139s] creating /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build
+[1.139s] creating /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib
+[1.140s] creating /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg
+[1.140s] copying my_robot_pkg/robot_client.py -> /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg
+[1.140s] copying my_robot_pkg/voice_speech.py -> /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg
+[1.140s] copying my_robot_pkg/__init__.py -> /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg
+[1.140s] copying my_robot_pkg/nevigetion.py -> /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg
+[1.140s] running install
+[1.140s] running install_lib
+[1.141s] creating /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[1.142s] copying /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg/robot_client.py -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[1.142s] copying /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg/voice_speech.py -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[1.142s] copying /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg/__init__.py -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[1.142s] copying /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build/lib/my_robot_pkg/nevigetion.py -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[1.143s] byte-compiling /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/robot_client.py to robot_client.cpython-310.pyc
+[1.144s] byte-compiling /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/voice_speech.py to voice_speech.cpython-310.pyc
+[1.145s] byte-compiling /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/__init__.py to __init__.cpython-310.pyc
+[1.145s] byte-compiling /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/nevigetion.py to nevigetion.cpython-310.pyc
+[1.146s] running install_data
+[1.146s] creating /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/share/ament_index
+[1.146s] creating /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/share/ament_index/resource_index
+[1.146s] creating /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/share/ament_index/resource_index/packages
+[1.147s] copying resource/my_robot_pkg -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/share/ament_index/resource_index/packages
+[1.147s] copying package.xml -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/share/my_robot_pkg
+[1.147s] creating /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/share/my_robot_pkg/launch
+[1.147s] copying launch/rtabmap_realsense.launch.py -> /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/share/my_robot_pkg/launch
+[1.147s] running install_egg_info
+[1.150s] Copying ../../build/my_robot_pkg/my_robot_pkg.egg-info to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg-0.0.0-py3.10.egg-info
+[1.151s] running install_scripts
+[1.181s] Installing nevigetion script to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/my_robot_pkg
+[1.181s] Installing robot_client script to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/my_robot_pkg
+[1.181s] Installing voice_speech script to /home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/my_robot_pkg
+[1.182s] writing list of installed files to '/home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/install.log'
+[1.219s] Invoked command in '/home/jo/project_RobotEngineering_3/my_robot/src/my_robot_pkg' returned '0': CMAKE_PREFIX_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_description:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs LD_LIBRARY_PATH=/home/jo/project_RobotEngineering_3/my_robot/install/my_command_pkg/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera/lib:/home/jo/project_RobotEngineering_3/my_robot/install/realsense2_camera_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jo/project_RobotEngineering_3/my_robot/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/build install --record /home/jo/project_RobotEngineering_3/my_robot/build/my_robot_pkg/install.log --single-version-externally-managed install_data
